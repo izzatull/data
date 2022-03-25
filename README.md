@@ -2,10 +2,7 @@
   <head>
     <meta charset="utf-8">
     <title>Izzatulla Turgunov</title>
-    <link rel="stylesheet" href="CSS/styles.css">
-
-
-
+    <link rel="stylesheet" href="styles.css">
   </head>
   <body  style="color:#151D3B">
     <table cellspacing="20">
